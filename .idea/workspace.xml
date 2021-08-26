@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d9e77d4-5a59-425e-9098-e058a7a0d8d0" name="Default Changelist" comment="" />
+    <list default="true" id="3d9e77d4-5a59-425e-9098-e058a7a0d8d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +20,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -28,6 +37,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1wGoQ2CG1A5LoV8RwEZRUzBtCl4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,8 +58,8 @@
       <recent name="C:\Users\user\Desktop\hw16\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\hw16" />
       <recent name="C:\Users\user\Desktop\hw16\css" />
+      <recent name="C:\Users\user\Desktop\hw16" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,11 +84,52 @@
       <workItem from="1628272537400" duration="7204000" />
       <workItem from="1628498641925" duration="21792000" />
       <workItem from="1628621756377" duration="696000" />
-      <workItem from="1628660622881" duration="9192000" />
+      <workItem from="1628660622881" duration="13765000" />
+      <workItem from="1628785529768" duration="46000" />
+      <workItem from="1628867161075" duration="22000" />
+      <workItem from="1629105759131" duration="44000" />
+      <workItem from="1629105979514" duration="43000" />
+      <workItem from="1629106047716" duration="13000" />
+      <workItem from="1629131373695" duration="69000" />
+      <workItem from="1629131449057" duration="266000" />
+      <workItem from="1629131770367" duration="38000" />
+      <workItem from="1629131842525" duration="92000" />
+      <workItem from="1629131953669" duration="37000" />
+      <workItem from="1629132020017" duration="321000" />
+      <workItem from="1629132384972" duration="7015000" />
+      <workItem from="1629201345823" duration="2355000" />
+      <workItem from="1629205773931" duration="3594000" />
+      <workItem from="1629210847705" duration="210000" />
+      <workItem from="1629211108605" duration="2893000" />
+      <workItem from="1629221098596" duration="666000" />
+      <workItem from="1629221801428" duration="333000" />
+      <workItem from="1629222222070" duration="2981000" />
+      <workItem from="1629264076887" duration="1196000" />
+      <workItem from="1629268233462" duration="7119000" />
+      <workItem from="1629297713814" duration="1187000" />
+      <workItem from="1629299612325" duration="1378000" />
+      <workItem from="1629301120381" duration="2553000" />
+      <workItem from="1629699502573" duration="22000" />
+      <workItem from="1629700203378" duration="45000" />
+      <workItem from="1629829612467" duration="45000" />
+      <workItem from="1629967526771" duration="26000" />
+      <workItem from="1629967663176" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

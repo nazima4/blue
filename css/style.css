@@ -44,6 +44,9 @@ body {
 li{
     list-style: none;
 }
+
+/*----- header -------*/
+
 .header{
     color: white;
     padding: 21px 0;
@@ -58,7 +61,7 @@ li{
     display: flex;
     align-items: center;
     font-weight: 600;
-    font-size: 22.5455px;
+    font-size: 21px;
     line-height: 31px;
     color: #3A68B8;
     margin-right: 84px;
@@ -72,6 +75,8 @@ li{
 .header-link{
     font-weight: 600;
     line-height: 22px;
+    font-size: 16px;
+    transition: .6s;
 }
 .header-link:hover{
     color: #0082EF;
@@ -93,13 +98,20 @@ li{
 .btn{
     background: #3A68B8;
     border-radius: 5px;
-    padding: 15px 30px;
+    padding: 15px 20px;
     font-weight: 600;
     font-size: 16px;
     line-height: 22px;
     display: inline-block;
-    transition: .6s;
+    transition: .4s;
+    border: solid 1px  #3A68B8;
 }
+.btn:hover{
+    color: white;
+    background-color: #08101e;
+    border: solid 1px  #3A68B8;
+}
+
 .header-left-side{
     display: flex;
     align-items: center;
@@ -109,8 +121,15 @@ li{
     direction: ltr;
 }
 .header-menu{
-    margin-right: 235px;
+    margin-right: 250px;
 }
+
+.mobile-menu{
+    display: none;
+}
+
+/*------ hero ---------*/
+
 .hero-container{
     display: flex;
     align-items: center;
@@ -379,11 +398,7 @@ background: #0a131f;
     background-color: #08101e;
     border: solid 2px  #3A68B8;
 }
-.btn:hover{
-    color: white;
-    background-color: #08101e;
-    border: solid 2px  #3A68B8;
-}
+
 .naxly{
     font-size: 25px;
     line-height: 125%;
@@ -418,6 +433,10 @@ background: #0a131f;
     width: 73px;
     height: 69px;
 }
+.mobile-menu svg{
+    color: white;
+}
+
 
 
 
